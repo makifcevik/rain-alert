@@ -7,8 +7,8 @@ This project was created for learning purposes. It benefits from Open Weather Ma
 1. Clone or download this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/trivia-quiz-app.git
-   cd trivia-quiz-app
+   git clone https://github.com/makifcevik/rain-alert.git
+   cd rain-alert
 
 2. Get your API key from https://openweathermap.org
 3. Get your corresponding latitude and longitude from https://www.latlong.net
