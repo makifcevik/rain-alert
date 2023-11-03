@@ -9,6 +9,7 @@ This project was created for learning purposes. It benefits from Open Weather Ma
    ```bash
    git clone https://github.com/makifcevik/rain-alert.git
    cd rain-alert
+   cd src
 
 2. Get your API key from https://openweathermap.org
 3. Get your corresponding latitude and longitude from https://www.latlong.net
